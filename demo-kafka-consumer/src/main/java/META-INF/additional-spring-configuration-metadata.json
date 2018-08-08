@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "event.topic.name",
+    "type": "java.lang.String",
+    "description": "A description for 'event.topic.name'"
+  },
+  {
+    "name": "event.groupId",
+    "type": "java.lang.String",
+    "description": "A description for 'event.groupId'"
+  },
+  {
+    "name": "event.groupId",
+    "type": "java.lang.String",
+    "description": "A description for 'event.groupId'"
+  },
+  {
+    "name": "event.groupId",
+    "type": "java.lang.String",
+    "description": "A description for 'event.groupId'"
+  },
+  {
+    "name": "event.topicName",
+    "type": "java.lang.String",
+    "description": "A description for 'event.topicName'"
+  },
+  {
+    "name": "event.topic.Name",
+    "type": "java.lang.String",
+    "description": "A description for 'event.topic.Name'"
+  }
+]}
